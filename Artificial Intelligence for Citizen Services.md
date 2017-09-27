@@ -1,5 +1,5 @@
 # EmergingCitizenTechnology
-GSA TTS Emerging Citizen Technology Program
+Artificial Intelligence for Citizen Services
 
 Next generation digital public services are powered by government data and artificial intelligence like chatbots and smart forms. The intelligent automation of programs helps make our public services more open, responsive, informative, and accessible for the American people.
 
