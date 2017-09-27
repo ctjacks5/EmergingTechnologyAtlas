@@ -1,5 +1,4 @@
 # EmergingCitizenTechnology
-Resources and Information for the GSA TTS Emerging Citizen Technology Program
 
 GSA’s Emerging Citizen Technology program collaborates with agencies, startups, small businesses, civic organizations and inter-agency communities to implement government-wide public service modernization initiatives like:
 
