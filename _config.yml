@@ -21,3 +21,5 @@ navigation:
 
 - text: "Section 3: <span>Virtual and Augmented Reality</span>"
   url: /virtual-reality/
+
+theme: jekyll-theme-minimal
