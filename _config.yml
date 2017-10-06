@@ -1,1 +1,46 @@
-theme: jekyll-theme-minimal
+# markdown
+markdown: kramdown
+kramdown:
+  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+highlighter: rouge
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+
+# Site metadata
+name: "Emerging Technology Atlas"
+description: "Emerging Technology Atlas."
+baseurl: /EmergingTechnologyAtlas
+
+# GitHub information
+org_name: ctjacks5
+repo_name: Emerging Technology Atlas
+branch: master
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: "Home"
+  url: /
+- text: "Emerging Technology Atlas"
+  url: /summary/
+- text: "Repository of Emerging Technology for Citizen Services"
+  url: /newcommitments/
+- text: "Section 1. Artificial Intelligence"
+  url: /artificialintelligence/
+
+- text: "Section 2: <span>Blockchain</span>"
+  url: /blockchain/
+
+- text: "Section 3: <span>Virtual and Augmented Reality</span>"
+  url: /virtual-reality/
