@@ -1,22 +1,3 @@
-# markdown
-markdown: kramdown
-kramdown:
-  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
-highlighter: rouge
-
-exclude:
-- ".ruby-version"
-- ".jekyll-metadata"
-- ".gitignore"
-- ".travis.yml"
-- todo.txt
-- resources
-- Gemfile
-- Gemfile.lock
-- Makefile
-- vendor
-- README.md
-
 # Site metadata
 name: "Emerging Technology Atlas"
 description: "Emerging Technology Atlas."
