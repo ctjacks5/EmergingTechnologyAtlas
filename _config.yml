@@ -14,12 +14,12 @@ navigation:
 - text: "Emerging Technology Atlas"
   url: /Atlashome/
 - text: "Section 1. Artificial Intelligence"
-  url: /artificialintelligence/
+  url: /Artificial-Intelligence/
 
 - text: "Section 2: <span>Blockchain</span>"
-  url: /blockchain/
+  url: /Blockchain/
 
 - text: "Section 3: <span>Virtual and Augmented Reality</span>"
-  url: /virtual-reality/
+  url: /Virtual-Reality/
 
 theme: jekyll-theme-minimal
