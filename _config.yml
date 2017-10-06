@@ -1,11 +1,31 @@
+# markdown
+markdown: kramdown
+kramdown:
+  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+highlighter: rouge
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+
+
 # Site metadata
 name: "Emerging Technology Atlas"
-description: "Emerging Technology Atlas."
+description: "Emerging Technology Atlas"
 baseurl: /EmergingTechnologyAtlas
 
 # GitHub information
 org_name: ctjacks5
-repo_name: Emerging Technology Atlas
+repo_name: EmergingTechnologyAtlas
 branch: master
 
 # Navigation
