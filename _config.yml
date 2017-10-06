@@ -30,12 +30,8 @@ branch: master
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: "Home"
-  url: /
 - text: "Emerging Technology Atlas"
-  url: /summary/
-- text: "Repository of Emerging Technology for Citizen Services"
-  url: /newcommitments/
+  url: /Atlashome/
 - text: "Section 1. Artificial Intelligence"
   url: /artificialintelligence/
 
