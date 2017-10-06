@@ -1,7 +1,7 @@
+theme: jekyll-theme-minimal
 
-# Site metadata
 name: "Emerging Technology Atlas"
-description: "Emerging Technology Atlas"
+description: "Welcome to the Emerging Technology Atlas. A collected repository of federal use cases, ideas, and concepts for Artificial Intelligence, Blockchain, Virtual/Augmented Reality, and Social Technologies."
 baseurl: /EmergingTechnologyAtlas
 
 # GitHub information
@@ -9,18 +9,3 @@ org_name: ctjacks5
 repo_name: EmergingTechnologyAtlas
 branch: master
 
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: "Emerging Technology Atlas"
-  url: /Atlashome/
-- text: "Section 1. Artificial Intelligence"
-  url: /Artificial-Intelligence/
-
-- text: "Section 2: <span>Blockchain</span>"
-  url: /Blockchain/
-
-- text: "Section 3: <span>Virtual and Augmented Reality</span>"
-  url: /Virtual-Reality/
-
-theme: jekyll-theme-minimal
