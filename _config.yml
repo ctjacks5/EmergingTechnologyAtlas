@@ -9,3 +9,6 @@ org_name: ctjacks5
 repo_name: EmergingTechnologyAtlas
 branch: master
 
+# Google Analytics
+google_analytics: UA-110413123-1
+
